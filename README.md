@@ -1,4 +1,4 @@
-# hand_gesture_automation_project(in progress)
+# hand_gesture_automation_project
 ## Description
 In this project we will automate electronic appliance and devices using hand gesture recognition.
 
